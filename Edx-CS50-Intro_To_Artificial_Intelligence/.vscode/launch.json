@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "/home/aniket/Documents/Aniket/workspace/robotics/Edx-CS50-Intro_To_Artificial_Intelligence/Week_1/degrees/large"
+        }
+    ]
+}
